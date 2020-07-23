@@ -10,6 +10,16 @@
   </samp>
 </p>
 
+## About me in code
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, Redux, Node]
+}
+```
+
 <br>
 <!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"> -->
 
