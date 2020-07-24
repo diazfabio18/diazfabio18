@@ -1,0 +1,21 @@
+{
+  "name": "diazfabio18",
+  "version": "1.0.0",
+  "description": "Main profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazfabio18/diazfabio18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diazfabio18/diazfabio18/issues"
+  },
+  "homepage": "https://github.com/diazfabio18/diazfabio18#readme"
+}
