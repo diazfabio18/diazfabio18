@@ -1,4 +1,4 @@
-![Banner](img/Banner_fabio_diaz.png)
+![Banner](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s960x960/115731481_3123897517695839_1149804846308302272_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=lWLIAFQZngsAX9bxo87&_nc_ht=scontent.faep14-2.fna&_nc_tp=7&oh=d71d4208fb097855c37c27fb03aaaa63&oe=5F400487)
 
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
