@@ -1,3 +1,5 @@
+![Banner](img/Banner_fabio_diaz.png)
+
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
   <img src="img/Banner_fabio_diaz.png">
