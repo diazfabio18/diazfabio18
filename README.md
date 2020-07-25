@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
+  <img src="img/banner_fabiodiaz.gif">
   <br><br>
   <samp>
     I'm Fabio Leonel Díaz:wave:
