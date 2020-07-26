@@ -1,19 +1,47 @@
 ![Banner](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s960x960/115731481_3123897517695839_1149804846308302272_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=lWLIAFQZngsAX9bxo87&_nc_ht=scontent.faep14-2.fna&_nc_tp=7&oh=d71d4208fb097855c37c27fb03aaaa63&oe=5F400487)
 
+<!-- social medias -->
+<p align="center"> 
+  <i> You can find me here! :incoming_envelope: </i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diazfabio">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="40px" alt="LinkedIn">
+  </a> &nbsp; &nbsp;
+  <a href="https://instagram.com/fl_diaz">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="40px" alt="Instagram">
+  </a> &nbsp; &nbsp;
+  <a href="https://facebook.com/fl.diaz.3">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="40px" alt="Facebook">
+  </a> &nbsp; &nbsp;
+  <!-- <a href="https://twitter.com/quadrified">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="40px" alt="Twitter">    
+  </a> &nbsp; &nbsp; -->
+  <!-- <a href="https://api.whatsapp.com/send?phone=+917330770559">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="40px" alt="Whatsapp">
+  </a> &nbsp; &nbsp; -->
+  <!-- <a href="https://t.me/quadrified">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="40px" alt="Telegram"> 
+  </a> &nbsp; &nbsp; -->
+</p>
+
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
-  <img src="img/Banner_fabio_diaz.png">
-  <br><br>
+  <!-- <img src="img/Banner_fabio_diaz.png"> -->
+<br>
   <samp>
-    I'm Fabio Leonel Díaz:wave:
+    Hello!, I'm Fabio Díaz 👋:wave:
     <br><br>
-    I work as a Web :globe_with_meridians: Developer!
+    I search :globe_with_meridians: to people likes the programming to program together with thems! ✨
     <br><br>
-    P.S. I do know that HTML is not a programming language!
+    P.S: I do know that HTML is not a programming language!
+    <br><br>
+    P.s: I want to evolve together with programming
   </samp>
 </p>
 
-## About me in code
+## About me in code ⚡
 
 ```javascript
 const thai = {
@@ -72,20 +100,6 @@ const thai = {
 
 </details>
 
-<!--  2do parrafo-->
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
-</p>
-
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
 </p>
@@ -93,7 +107,7 @@ const thai = {
 <br>
 
 <p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+  Made with :red_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
 
 
@@ -115,9 +129,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋
-### - I'm currently...
-
 - latest article: {latest_article}
 
