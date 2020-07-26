@@ -1,4 +1,6 @@
-![Banner](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s960x960/115731481_3123897517695839_1149804846308302272_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=lWLIAFQZngsAX9bxo87&_nc_ht=scontent.faep14-2.fna&_nc_tp=7&oh=d71d4208fb097855c37c27fb03aaaa63&oe=5F400487)
+<!-- ![Banner](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s960x960/115731481_3123897517695839_1149804846308302272_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=lWLIAFQZngsAX9bxo87&_nc_ht=scontent.faep14-2.fna&_nc_tp=7&oh=d71d4208fb097855c37c27fb03aaaa63&oe=5F400487) -->
+
+![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/Fabio_Leonel_Diaz.gif)
 
 <!-- social medias -->
 <p align="center"> 
@@ -7,13 +9,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diazfabio">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="40px" alt="LinkedIn">
+    <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/linkedin_icon.png" width="44px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
   <a href="https://instagram.com/fl_diaz">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="40px" alt="Instagram">
+    <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/instagram_icon.png" width="44px" alt="Instagram">
   </a> &nbsp; &nbsp;
   <a href="https://facebook.com/fl.diaz.3">
-    <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/facebook_icon.png" width="40px" alt="Facebook">
+    <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/facebook_icon.png" width="44px" alt="Facebook">
   </a> &nbsp; &nbsp;
   <!-- <a href="https://api.whatsapp.com/send?phone=+917330770559">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="40px" alt="Whatsapp">
