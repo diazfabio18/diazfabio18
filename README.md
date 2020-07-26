@@ -13,16 +13,10 @@
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="40px" alt="Instagram">
   </a> &nbsp; &nbsp;
   <a href="https://facebook.com/fl.diaz.3">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="40px" alt="Facebook">
+    <img src="https://github.com/diazfabio18/diazfabio18/img/facebook_icon.png" width="40px" alt="Facebook">
   </a> &nbsp; &nbsp;
-  <!-- <a href="https://twitter.com/quadrified">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="40px" alt="Twitter">    
-  </a> &nbsp; &nbsp; -->
   <!-- <a href="https://api.whatsapp.com/send?phone=+917330770559">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="40px" alt="Whatsapp">
-  </a> &nbsp; &nbsp; -->
-  <!-- <a href="https://t.me/quadrified">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="40px" alt="Telegram"> 
   </a> &nbsp; &nbsp; -->
 </p>
 
