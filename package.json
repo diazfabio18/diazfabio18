@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/diazfabio18/diazfabio18/issues"
   },
-  "homepage": "https://github.com/diazfabio18/diazfabio18#readme"
+  "homepage": "https://github.com/diazfabio18/diazfabio18#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
