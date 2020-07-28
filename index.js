@@ -32,6 +32,7 @@ const getPhotosFromInstagram = () =>
           //.map(({node}) => generateInstagramHTML(node))
           //.join('')
 
+        //Test image urls from my
         latestInstagramPhotos.map(({node}) =>
             console.log(node.display_url)    
         )

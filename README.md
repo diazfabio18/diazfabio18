@@ -1,10 +1,9 @@
-<!-- ![Banner](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/s960x960/115731481_3123897517695839_1149804846308302272_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=lWLIAFQZngsAX9bxo87&_nc_ht=scontent.faep14-2.fna&_nc_tp=7&oh=d71d4208fb097855c37c27fb03aaaa63&oe=5F400487) -->
 
-![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/Fabio_Leonel_Diaz.gif)
+![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/banner_readme.gif)
 
 <!-- social medias -->
 <p align="center"> 
-  <i> You can find me here! :incoming_envelope: </i>
+  <i> You can find me in my personal social media! :incoming_envelope: </i>
 </p>
 
 <p align="center">
@@ -40,9 +39,12 @@
 ## About me in code ⚡
 
 ```javascript
-const thai = {
-  code: [Javascript, HTML, CSS, Java],
-  tools: [Vue, Node]
+const my = {
+  code: {
+        frontend: [Vuejs, HTML5, CSS3, Javascript],
+        backend: [NodeJS, MySql, MongoDB, ExpressJS],
+  },
+  tools: [npm, VSCode]
 }
 ```
 
@@ -96,14 +98,15 @@ const thai = {
 
 </details>
 
+<!--
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
-</p>
+</p> -->
 
 <br>
 
 <p align="center">
-  Made with :red_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+  Made with GitHub Markdown coding :)
 </p>
 
 
@@ -125,5 +128,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- latest article: {latest_article}
+<!-- - latest article: {latest_article} -->
 

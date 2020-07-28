@@ -1,10 +1,10 @@
 {
   "name": "diazfabio18",
   "version": "1.0.0",
-  "description": "Main profile",
+  "description": "Main profile on Github with Actions and npm",
   "main": "index.js",
   "scripts": {
-    "update-readme": "",
+    "update-readme": "npm run index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
