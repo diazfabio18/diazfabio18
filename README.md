@@ -44,21 +44,21 @@ Back End
   ==========
   <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/nodejs.svg" alt="java" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="java" style="vertical-align:top; margin:4px">
   </p>
 
   Front End
   ==========
   <p align="center">
    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
 </p>
 
   Developer Tools
