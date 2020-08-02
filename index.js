@@ -11,8 +11,14 @@ const fetch = require('node-fetch');
     console.log(markdownTemplate);
 })*/
 
+const generateInstagramHTML = ({media_url,permalink}) => `
+<a href='${permalink}' target='_blank'>
+  <img width='20%' src='${media_url}' alt='Instagram photo'/>
+</a>
+`
+
 const getPhotosFromInstagram = () =>
-  fetch('https://instagram.com/fl_diaz?__a=1')
+  fetch('https://instagram.com/fyluj_electronic?__a=1')
     .then(res => res.json())
     .then(({graphql}) => {
       const { user } = graphql
@@ -28,13 +34,13 @@ const getPhotosFromInstagram = () =>
       
         // create latest photos from instagram
         const latestInstagramPhotos = photos
-          .slice(0, 5)
+          .slice(0, 6)
           //.map(({node}) => generateInstagramHTML(node))
           //.join('')
 
         //Test image urls from my
         latestInstagramPhotos.map(({node}) =>
-            console.log(node.display_url)    
+            console.log(node)    
         )
 
 
