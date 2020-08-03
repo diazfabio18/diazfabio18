@@ -38,8 +38,6 @@
 
 <br>
 
-## Language and tools
-
 Back End
   ==========
   <p align="center">
@@ -106,8 +104,10 @@ var myFeatures = [
 
 <br>
 
+### 📸 Latest photos on [Fyluj Electronic](https://instagram.com/fyluj_electronic):
+
 <p align="center">
-  Made with GitHub Markdown coding 😄
+  
 </p>
   <!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
   <!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"> -->

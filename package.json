@@ -4,8 +4,9 @@
   "description": "Main profile on Github with Actions and npm",
   "main": "index.js",
   "scripts": {
-    "update-readme": "npm run index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-readme": "npm run ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
