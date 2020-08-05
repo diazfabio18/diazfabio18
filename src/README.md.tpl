@@ -106,19 +106,4 @@ var myFeatures = [
 
 ### 📸 Latest photos on [Fyluj Electronic](https://instagram.com/fyluj_electronic):
 
-
-<a href='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/116377712_187964402686873_6527335179646656999_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=KswGKZ3ERz4AX9XycFK&oh=2b544be6e9aa5f3b65bb0734cd50cc6c&oe=5F5395B5' target='_blank'>
-  <img width='20%' src='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/116377712_187964402686873_6527335179646656999_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=KswGKZ3ERz4AX9XycFK&oh=2b544be6e9aa5f3b65bb0734cd50cc6c&oe=5F5395B5' alt='Instagram photo'/>
-</a>
- 
-<a href='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/90514370_635634860328933_217987679352671660_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JqTDehEv9PUAX88vsHv&oh=6859bbeca14b32e1f2d33383d6c1aeb4&oe=5F556BE4' target='_blank'>
-  <img width='20%' src='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/90514370_635634860328933_217987679352671660_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JqTDehEv9PUAX88vsHv&oh=6859bbeca14b32e1f2d33383d6c1aeb4&oe=5F556BE4' alt='Instagram photo'/>
-</a>
- 
-<a href='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/90248519_243634496671473_6375653470644952867_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QG1k7P2nplcAX91O1rL&oh=c669ed1760a7951a7a912353fb7c764d&oe=5F2CBA27' target='_blank'>
-  <img width='20%' src='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/90248519_243634496671473_6375653470644952867_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QG1k7P2nplcAX91O1rL&oh=c669ed1760a7951a7a912353fb7c764d&oe=5F2CBA27' alt='Instagram photo'/>
-</a>
- 
-<a href='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/89377468_514676179457230_2402045072178833382_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=xlU9fgm9nHAAX91fNc8&oh=2cb10238e56c3c0c3d44a542a399de87&oe=5F548C17' target='_blank'>
-  <img width='20%' src='https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-15/e35/89377468_514676179457230_2402045072178833382_n.jpg?_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=xlU9fgm9nHAAX91fNc8&oh=2cb10238e56c3c0c3d44a542a399de87&oe=5F548C17' alt='Instagram photo'/>
-</a>
+%{{latest_instagram}}%
