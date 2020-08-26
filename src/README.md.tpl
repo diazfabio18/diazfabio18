@@ -42,7 +42,7 @@ Back End
   ==========
   <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="java" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   </p>
 
   Front End
@@ -79,7 +79,7 @@ Back End
 ```javascript
 var myFeatures = [
   purpose:,
-  interest: {},
+  interest: ["explore", "learn", "to collaborate"],
   planCareer: {
     university: "Electronic Engineering",
     EndIn: 2022
@@ -96,9 +96,8 @@ var myFeatures = [
 - Learning React with Redux. 
 - Adding databases to my skill set. -->
 
----
 
-<img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/final_coffee.gif" alt="final coffee" >
+<img align="center" src="https://github.com/diazfabio18/diazfabio18/blob/master/img/final_coffee.gif" alt="final coffee" >
 
 </details>
 
