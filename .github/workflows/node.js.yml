@@ -6,7 +6,7 @@ name: Node.js CI
 on:
 
   schedule: 
-    - cron: "30 7 * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
@@ -15,9 +15,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js 
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+         node-version: '14'
     - run: npm install
     - run: npm run update-readme
+    - run: |
+        git add README.md
+        git commit -m "[BOT] Update Readme with latest information"
+        git push origin master
