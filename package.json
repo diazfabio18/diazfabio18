@@ -4,16 +4,15 @@
   "description": "Main profile on Github with Actions and npm",
   "main": "index.js",
   "scripts": {
-    "update-readme": "npm run ./src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-readme": "npm run dev",
     "dev": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/diazfabio18/diazfabio18.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ['Actions','Workflow','Readme'],
+  "author": "diazfabio",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diazfabio18/diazfabio18/issues"
