@@ -47,12 +47,17 @@ const getPhotosFromInstagram = () =>
           .join(' ')
 
         //Test image urls from my
-          console.log(htmlPosts);
+          //console.log(htmlPosts);
 
-        const newPosts = await template
+        /*const newPosts = await template
           .replace(LATEST_INSTAGRAM, htmlPosts)
 
         await fs.writeFile('./README.md', newPosts);
-
+        */
+        
+        fs.readFile('./README.md', {encoding: 'utf-8'})
+        .then(m => {
+            console.log(m);
+        })
 
     })()

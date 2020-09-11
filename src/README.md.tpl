@@ -1,6 +1,4 @@
-
-![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/banner_readme.gif)
-
+![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/banner_git.gif)
 <!-- social medias -->
 <p align="center"> 
   <i> You can find me in my personal social media! :incoming_envelope: </i>
@@ -16,14 +14,9 @@
   <a href="https://facebook.com/fl.diaz.3">
     <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/facebook_icon.png" width="44px" alt="Facebook">
   </a> &nbsp; &nbsp;
-  <!-- <a href="https://api.whatsapp.com/send?phone=+917330770559">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="40px" alt="Whatsapp">
-  </a> &nbsp; &nbsp; -->
 </p>
 
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
-  <!-- <img src="img/Banner_fabio_diaz.png"> -->
 <br>
   <samp>
     Hello!, I'm Fabio Díaz 👋

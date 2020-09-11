@@ -1,5 +1,4 @@
-
-![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/banner_readme.gif)
+![Banner gif](https://github.com/diazfabio18/diazfabio18/blob/master/img/banner_git.gif)
 
 <!-- social medias -->
 <p align="center"> 
@@ -16,23 +15,14 @@
   <a href="https://facebook.com/fl.diaz.3">
     <img src="https://github.com/diazfabio18/diazfabio18/blob/master/img/facebook_icon.png" width="44px" alt="Facebook">
   </a> &nbsp; &nbsp;
-  <!-- <a href="https://api.whatsapp.com/send?phone=+917330770559">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="40px" alt="Whatsapp">
-  </a> &nbsp; &nbsp; -->
 </p>
 
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"> -->
-  <!-- <img src="img/Banner_fabio_diaz.png"> -->
 <br>
   <samp>
     Hello!, I'm Fabio Díaz 👋
     <br><br>
     I search :globe_with_meridians: to people likes the programming to evolve together with thems! ✨
-    <!-- <br><br>
-    P.S: I do know that HTML is not a programming language!
-    <br><br>
-    P.s: I want to evolve together with programming-->
   </samp>
 </p>
 
